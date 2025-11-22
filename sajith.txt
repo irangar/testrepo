@@ -1,27 +1,3 @@
-About Me
-========
-
-Hello! I'm Ramindu, a passionate developer and technology enthusiast. I enjoy working on innovative projects and continuously learning new skills to enhance my craft.
-
-Background
-----------
-I have a strong interest in software development and problem-solving. My journey in technology has been driven by curiosity and a desire to create meaningful solutions.
-
-Interests
----------
-- Software Development
-- Coding and Programming
-- Learning New Technologies
-- Building Practical Applications
-
-Goals
------
-I'm committed to growing as a developer and contributing to exciting projects that make a difference. I believe in continuous improvement and staying updated with the latest industry trends.
-
-Contact
--------
-Feel free to connect with me to discuss technology, projects, or potential collaborations!
-
 About Sajith
 ============
 
@@ -38,4 +14,3 @@ Working with Sajith is always a rewarding experience. He fosters a positive team
 Impact
 ------
 Sajith's contributions have made a significant difference in numerous projects. His attention to detail, problem-solving abilities, and commitment to excellence set him apart as a valuable team member and leader.
-
